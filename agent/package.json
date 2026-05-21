@@ -1,0 +1,13 @@
+{
+  "name": "autoreward-agent",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node agent.js"
+  },
+  "dependencies": {
+    "@tychilabs/ugf-testnet-js": "latest",
+    "dotenv": "^16.0.0",
+    "ethers": "^6.0.0"
+  }
+}
